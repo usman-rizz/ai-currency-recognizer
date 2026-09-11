@@ -62,7 +62,7 @@
 > **Architecture diagram goes here**
 
 <p align="center">
-  <img src="docs/architecture.png" alt="AICurrency~Recognizor system architecture" width="900">
+  <img src="Architecture/img.png" alt="AICurrency~Recognizor system architecture" width="900">
 </p>
 
 ### Request flow
